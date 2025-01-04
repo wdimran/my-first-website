@@ -38,10 +38,12 @@ input{
 #wlcbennar{
     height: 300px;
     background-color: #f08804;
-}
+   }
 
 h1{
     text-align: center;
     font-size: 70px;
     padding-top: 100px;
+    text-transform: capitalize;
 }
+

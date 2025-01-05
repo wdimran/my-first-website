@@ -6,7 +6,6 @@
 #nevbar{
     height: 60px;
     padding: 10px;
-    margin-top: 15px;
     background-color: #0f1111;
     text-align: center;
     
@@ -47,3 +46,28 @@ h1{
     text-transform: capitalize;
 }
 
+.top-bottom-bar{
+    height: 15px;
+    background-color: gray;
+}
+#wdpic{
+    width: 30%;
+    float: left;
+    background-color: #f08804;
+}
+
+#wdcontant{
+    width: 70%;
+    float: right;
+    background-color: #0f1111;
+    color: white;
+       
+}
+
+#webimage{
+    width: 100%;
+}
+
+h2{
+    padding-left: 10px;
+}
